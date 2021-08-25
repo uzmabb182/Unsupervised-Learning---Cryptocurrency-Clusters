@@ -63,7 +63,7 @@ According to the explained variance, the first principal component contains appr
 
 ![KMean](Images/kMean.PNG)
 
-![KMean](Images/kMean1.PNG)
+![KMean](Images/KMean1.PNG)
 
 ## Elbow Curve:
 
