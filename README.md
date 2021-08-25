@@ -72,7 +72,7 @@ Here we want to identify the best number of clusters visually using elbow curve.
 ![Elbow Curve](Images/Elbow_Curve.PNG)
 
 
-![Elbow Curve](Images/Elbow_Curve1.PNG)
+![Elbow Curve](Images/Elbow_curve1.PNG)
 
 ## Further reduce the dataset dimensions with t-SNE and visually inspect the results:
 
